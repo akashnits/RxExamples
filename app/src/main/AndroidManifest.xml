@@ -10,11 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
-        <activity android:name=".OneActivity"></activity>
-        <activity android:name=".SecondActivity">
-
-        </activity>
-        <activity android:name=".ThirdActivity">
+        <activity android:name=".OneActivity" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".ThirdActivity" />
+        <activity android:name=".FourthActivity" />
+        <activity android:name=".FifthActivity" />
+        <activity android:name=".SixthActivity" />
+        <activity android:name=".SeventhActivity"/>
+        <activity android:name=".EightActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
